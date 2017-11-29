@@ -6,5 +6,5 @@ public class Person{
 
 public coba(){
 	
-	}
+	int angka;
 }
